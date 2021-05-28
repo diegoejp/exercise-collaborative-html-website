@@ -1,3 +1,10 @@
 body{
     background: #BDBDBD;
 }
+.fondo{
+    background: url(/website1/assets/img/bg.jpg);
+    background-repeat: no-repeat;
+    /* background-position: center bottom; */
+    background-size: 100%;
+
+}
